@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-[🔗 Click here to view the deployed site](#) *(Replace this with your Netlify/Vercel deployment link)*
+[🔗 Click here to view the deployed site](#) *(https://weather-website-anwesha.netlify.app/)*
 
 ---
 
