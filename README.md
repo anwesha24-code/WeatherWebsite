@@ -189,7 +189,7 @@ cd WeatherWebsite
 Replace all instances of the placeholder API key in JS files:
 
 ```js
-const apiKey = "YOUR_API_KEY_HERE";
+const apiKey = "19eb282dbdaa3815c081dbcbcc0af5da";
 ```
 
 You can get your free key from [OpenWeatherMap](https://openweathermap.org/api).
@@ -216,9 +216,7 @@ npx live-server
 
 * [ ] Integrate AQI charts
 * [ ] Dark mode toggle
-* [ ] Forecast graphs using Chart.js
 * [ ] Add PWA support (Installable)
-* [ ] Deploy to Netlify/Vercel
 
 ---
 
@@ -229,10 +227,5 @@ npx live-server
 > Weather Enthusiast · Passionate Developer · UI/UX Explorer
 
 🌐 [GitHub](https://github.com/anwesha24-code)
-📧 [anweshapal@example.com](mailto:anweshapal@example.com) *(replace with your real email if needed)*
 
 ---
-
-## 📄 License
-
-Licensed under the [MIT License](LICENSE).
