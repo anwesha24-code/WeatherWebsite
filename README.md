@@ -126,8 +126,26 @@ taskmate-app/
 ### Weather Alerts
 ![alerts](https://github.com/anwesha24-code/WeatherWebsite/blob/a6f011384a725cea107f8e7f1394be084ddd0bda/Screenshots/Screenshot%202025-07-07%20195256.png)
 
-### User-friendly ChatBot for Agricultural help
+### 🌿 Dr. Leaf – Agriculture Disease Diagnosis Chatbot
+
+**Dr. Leaf** is an AI-powered agriculture assistant built using **Botpress**. It helps farmers and researchers diagnose plant diseases and manage crop health effectively.
+
+🧠 **Trained on:**
+- Hosta Virus Dataset
+- PlantVillage Dataset
+- Agriculture Disease Management Data
+
+💬 **Features:**
+- Diagnoses plant issues based on user input
+- Suggests treatments for diseases like Yellow Mosaic Virus, Rust, Leaf Spot, and Root Rot
+- Provides integrated pest and disease management advice
+
+🚀 Powered by Botpress Cloud | Built with farmers in mind
+
+🔗 Try it live or integrate into your farming advisory systems.
+
 ![agribot](https://github.com/anwesha24-code/WeatherWebsite/blob/973adafc857de2c5b9cd815e7ed6823cfd622563/Screenshots/Screenshot%202025-08-02%20181451.png)
+![chats](https://github.com/anwesha24-code/WeatherWebsite/blob/1f7a7ba40baba0f086217612986d3e4045316bc2/Screenshots/Screenshot%202025-08-02%20181646.png)
 ---
 
 ## 🛠️ Built With
