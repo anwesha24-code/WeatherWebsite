@@ -1,7 +1,7 @@
 
-# 🌦️ ClimateWise – Weather & AQI Dashboard
+# 🌦️ FarmForecast – Weather & Agriculture
 
-**ClimateWise** is a responsive web application that provides detailed weather insights, real-time air quality index (AQI), interactive radar layers, and city-based weather forecasts with smart search, favorites, and geolocation capabilities — all powered by OpenWeatherMap.
+**FarmForecast** is a responsive web application that provides detailed weather insights, real-time air quality index (AQI), interactive radar layers, and city-based weather forecasts with smart search, favorites, and geolocation capabilities — all powered by OpenWeatherMap along with agricultural help for diseased plants by Dr.Leaf chatbot.
 
 ---
 
