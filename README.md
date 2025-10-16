@@ -207,8 +207,8 @@
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/taskmate-app.git
-cd taskmate-app
+git clone https://github.com/your-username/weather-website.git
+cd weather-website
 ```
 
 ### 2. Add Your API Key
