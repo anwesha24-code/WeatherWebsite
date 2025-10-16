@@ -20,22 +20,66 @@
 ## 📂 Project Structure
 
 ```bash
-taskmate-app/
-├── index.html
+├── 7-day-forecast.css
+├── 7-day-forecast.html
+├── 7-day-forecast.js
+├── Haze.png
+├── README.md
+├── Screenshots
+├── air-quality.css
+├── air-quality.html
+├── air-quality.js
+├── alerts.css
+├── alerts.html
+├── alerts.js
+├── assets
+    ├── 404.png
+    ├── Haze.png
+    ├── Overcast.png
+    ├── background.avif
+    ├── background.jpg
+    ├── background2.jpg
+    ├── clear.png
+    ├── cloud.png
+    ├── location.webp
+    ├── loginbackground.webp
+    ├── logo.jpg
+    ├── mist.png
+    ├── nimbus-trans.png
+    ├── nimbus.png
+    ├── rain.png
+    ├── search.png
+    ├── smallicon.png
+    ├── smoke.webp
+    └── snow.png
+├── clear.png
+├── cloud.png
+├── compare-additional.css
+├── compare.css
+├── compare.html
+├── compare.js
+├── favorites.css
+├── favorites.html
+├── favorites.js
+├── helpbot.html
 ├── home.html
-├── hourly.html
+├── hourly-forecast.css
+├── hourly-forecast.html
+├── hourly-forecast.js
+├── index.html
+├── indexstyle.css
+├── map.html
+├── map.js
+├── mist.png
+├── package.json
+├── radar.css
 ├── radar.html
-├── styles/
-│   └── main.css
-├── scripts/
-│   ├── main.js
-│   ├── home.js
-│   ├── hourly.js
-│   └── radar.js
-├── assets/
-│   ├── weather-icons/
-│   └── images/
-└── README.md
+├── radar.js
+├── rain.png
+├── script.js
+├── smoke.webp
+├── snow.png
+└── style.css
 ```
 
 ---
